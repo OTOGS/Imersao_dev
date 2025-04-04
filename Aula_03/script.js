@@ -9,5 +9,4 @@ if (idade >= 18){
    if(escolhaJogador == escolhaComputador){
       alert('Empate!!');
    };
-}
-alert('Teste GIT');
+};
