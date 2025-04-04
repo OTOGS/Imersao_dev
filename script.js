@@ -10,3 +10,4 @@ if (idade >= 18){
       alert('Empate!!');
    };
 }
+alert('Teste GIT');
