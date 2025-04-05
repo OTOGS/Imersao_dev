@@ -162,7 +162,6 @@ perguntas = [
   }
 ]
 
-
 // PARTE 2: Pegando os elementos do HTML
 const perguntaElemento = document.querySelector(".pergunta");
 const respostasElemento = document.querySelector(".respostas");
