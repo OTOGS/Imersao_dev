@@ -221,6 +221,7 @@ function finalizarJogo() {
 textoFinal.innerHTML = `Você acertou ${acertos} de ${perguntas.length}`; // Exibe o resultado
 conteudo.style.display = "none"; // Esconde as perguntas
 conteudoFinal.style.display = "flex"; // Mostra a tela final
+document.getElementById("footer-botao").style.display = "block"; // Mostra o botão "Voltar ao Início"
 }
 
 // PARTE 6: Iniciando o jogo pela primeira vez
