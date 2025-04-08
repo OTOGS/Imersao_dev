@@ -74,3 +74,11 @@ footer {
 .btn-voltar:hover {
   background-color: #16a085;
 }
+
+/* Estilo para o Resultado Final */
+#resultadoFinal {
+  color: #ff1b7b;
+  font-size: 2em;
+  margin: 20px 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
